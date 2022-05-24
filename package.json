@@ -1,0 +1,21 @@
+{
+  "name": "mcl-2.0.1",
+  "version": "1.0.0",
+  "description": "[![GitHub release](https://img.shields.io/github/v/release/itxtech/mirai-console-loader?label=stable)](https://github.com/iTXTech/mirai-console-loader/releases)\r [![Maven Central](https://img.shields.io/maven-central/v/org.itxtech/mcl)](https://repo.maven.apache.org/maven2/org/itxtech/mcl/)\r [![MiraiForum](https://img.shields.io/badge/post-on%20MiraiForum-yellow)](https://mirai.mamoe.net/topic/177)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mirai-js": "^2.6.1",
+    "node-fetch": "^3.2.4",
+    "request": "^2.88.2",
+    "superagent": "^7.1.3"
+  }
+}
